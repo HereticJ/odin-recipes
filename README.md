@@ -1,0 +1,1 @@
+Welcome to the readme, this is a beginner project as part of The Odin Project to better learn HTML. In this case, creating a recipe website. By making this, I'll demonstrate my basic understanding of the fundamentals of HTML code.
